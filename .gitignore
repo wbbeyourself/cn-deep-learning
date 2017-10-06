@@ -2,3 +2,5 @@
 *.pyc
 *.log
 .ipynb_checkpoints/
+untitled*.ipynb
+Untitled*.ipynb
